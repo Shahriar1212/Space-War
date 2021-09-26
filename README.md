@@ -11,4 +11,7 @@ Space War is a rocket shooting game built with iGraphics and C. There are three 
 4. open sln file with visual studio 2013
 5. run the project and play :)
 
- ![](Space-War/home.PNG)
+ ![](home.PNG)
+ ![](demo1.PNG)
+ ![](demp3.PNG)
+ ![](about.PNG)
